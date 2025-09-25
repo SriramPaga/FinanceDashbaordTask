@@ -118,7 +118,6 @@ const App: React.FC = () => {
             Select a company and metric to visualize performance over time.
           </p>
         </header>
-        <h1 className="text-3xl font-bold text-blue-600">Hello Tailwind!</h1>
         {/* Main Content Area */}
         <div className="flex flex-col lg:flex-row gap-8">
           {/* Controls / Sidebar */}
